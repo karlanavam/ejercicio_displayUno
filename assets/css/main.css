@@ -1,20 +1,24 @@
 .amarillo {
 	background-color: #FCCB00;
-	display: block;
-	width: 200px;
+	display: inline;
+	width: 70px;
 	height: 60px;
 	text-align: left;
 	font-family: Tahoma;
-	padding-top: 40px;
-	padding-left: 10px;
-	margin-top: 30px;
+	padding: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
 	
+
 }
 
 .amarilloRojo {
 	background-color: #EE181E;
-	display: block;
-	border: .5px solid black;
+	width: 30px;
+}
+
+.contenedor {
+	margin-top: 30px;
 }
 
 
